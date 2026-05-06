@@ -1,0 +1,14 @@
+[
+  {
+    "data": "2026-01-21",
+    "dystans_km": 100.0,
+    "czas_min": 120,
+    "tempo_min_km": 1.2
+  },
+  {
+    "data": "2026-10-30",
+    "dystans_km": 130.0,
+    "czas_min": 230,
+    "tempo_min_km": 1.77
+  }
+]
