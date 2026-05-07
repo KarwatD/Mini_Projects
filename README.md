@@ -2,6 +2,9 @@
 
 Set of 12 functional tools CLI. Projects focus on clean code and solid data support.
 
+**Language:** 
+  Code (variables and UI) is in Polish to comply with project requirements.
+
 ## Technical Stack
 * **Data Persistence** 
   Full support of JSON files
