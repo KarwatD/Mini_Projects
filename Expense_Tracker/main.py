@@ -23,11 +23,17 @@ def dodaj_wydatek(wydatki,opis,data,kwota,kategoria):
 # Wyswietlanie wydatków
 def wyswietl_wydatki(wydatki):
     print()
+    if not wydatki:
+        print('Brak wpisów w pliku')
+        return
     for i in wydatki:
         print(f"Data: {i['data']}\nOpis: {i['opis']}\nKwota: {i['kwota']:.2f}\nKategoria: {i['kategoria']}\n")
 
 # Podsumowuje wydatki z danej kategorii
 def podsumowanie(wydatki):
+    if not wydatki:
+        print('Brak wpisów w pliku')
+        return
     wydatki_calkowite = 0
     jedzenie = 0
     transport = 0
@@ -55,7 +61,7 @@ def podsumowanie(wydatki):
 # Zapisywanie
 def zapisz_plik(wydatki,nazwa_pliku):
     with open(nazwa_pliku[0], 'w') as plik:
-        json.dump(wydatki,plik)
+        json.dump(wydatki,plik, ensure_ascii=False)
 
 # Wczytywanie
 def wczytaj_plik(nazwa_pliku):

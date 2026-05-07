@@ -55,6 +55,9 @@ def dodaj_bieg(historia,data,dystans,czas):
     
 # Wyświetlanie historii
 def wyswietl_historie(historia):
+    if not historia:
+        print('Brak danych')
+        return
     for i in historia:
         print(f"Data: {i['data']}\nDystans: {i['dystans_km']}\nCzas: {int(i['czas_min'])}\nTempo: {i['tempo_min_km']}\n")
         
@@ -77,7 +80,7 @@ def statystyki(historia):
 # Zapisywanie pliku
 def zapisz_plik(historia,nazwa_pliku):
     with open(nazwa_pliku, 'w') as plik:
-        json.dump(historia,plik)
+        json.dump(historia,plik, ensure_ascii=False)
         
 
 # Wczytywanie pliku
