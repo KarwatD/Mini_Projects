@@ -1,0 +1,26 @@
+[
+  {
+    "data": "2026-01-01",
+    "opis": "Zamowienie pizzy",
+    "kwota": 150.0,
+    "kategoria": "jedzenie"
+  },
+  {
+    "data": "2026-01-02",
+    "opis": "Obiad w restauracji",
+    "kwota": 120.0,
+    "kategoria": "jedzenie"
+  },
+  {
+    "data": "2026-01-01",
+    "opis": "Wesole miasteczko",
+    "kwota": 120.0,
+    "kategoria": "rozrywka"
+  },
+  {
+    "data": "2026-01-01",
+    "opis": "Dojazd autem",
+    "kwota": 50.21,
+    "kategoria": "transport"
+  }
+]

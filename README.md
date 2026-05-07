@@ -17,7 +17,7 @@ Set of 12 functional tools CLI. Projects focus on clean code and solid data supp
 
   ## Projects
   * [x] **RunTracker**
-  * [ ] **ExpenseTracker**
+  * [x] **ExpenseTracker**
   * [ ] **BookCatalog**
   * [ ] **TasksList**
   * [ ] **GradeTracker**
