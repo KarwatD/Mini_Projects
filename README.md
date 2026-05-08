@@ -23,7 +23,7 @@ Code (variables and UI) is in Polish to comply with project requirements.
   - [x] **TasksList**
   - [x] **GradeTracker**
   - [x] **ExamResultManager**
-  - [ ] **AddressBook**
+  - [x] **AddressBook**
   - [ ] **WeatherLog**
   - [ ] **PersonalSportsRecords**
   - [ ] **StudyingTimeTracker**

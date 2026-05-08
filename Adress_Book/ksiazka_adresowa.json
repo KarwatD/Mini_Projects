@@ -1,0 +1,38 @@
+[
+  {
+    "imie_nazwisko": "Anna Kowalska",
+    "telefon": "600-123-456",
+    "email": "ania.k@gmail.com",
+    "grupa": "rodzina"
+  },
+  {
+    "imie_nazwisko": "Jan Nowak",
+    "telefon": "500-444-555",
+    "email": "j.nowak@firma.pl",
+    "grupa": "praca"
+  },
+  {
+    "imie_nazwisko": "Marek Zieliński",
+    "telefon": "888-222-111",
+    "email": "marek.z@wp.pl",
+    "grupa": "przyjaciele"
+  },
+  {
+    "imie_nazwisko": "Piotr Kowal",
+    "telefon": "111-222-333",
+    "email": "piotrek@o2.pl",
+    "grupa": "znajomi"
+  },
+  {
+    "imie_nazwisko": "Katarzyna Nowak",
+    "telefon": "999-888-777",
+    "email": "kasia_n@biuro.pl",
+    "grupa": "praca"
+  },
+  {
+    "imie_nazwisko": "Janina Grzyb",
+    "telefon": "208-468-286",
+    "email": "janina@gmail.com",
+    "grupa": "inne"
+  }
+]
