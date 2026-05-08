@@ -2,29 +2,30 @@
 
 Set of 12 functional tools CLI. Projects focus on clean code and solid data support.
 
-**Language:** 
-  Code (variables and UI) is in Polish to comply with project requirements.
+**Language:**
+Code (variables and UI) is in Polish to comply with project requirements.
 
 ## Technical Stack
-* **Data Persistence** 
+
+- **Data Persistence**
   Full support of JSON files
-* **Robustness**
+- **Robustness**
   Data validation by `try/except`
-* **Clean Architecture**
+- **Clean Architecture**
   Separated logic from interface (I/O)
-* **Data Structures**
+- **Data Structures**
   Advanced lists of dictionaries
 
   ## Projects
-  * [x] **RunTracker**
-  * [x] **ExpenseTracker**
-  * [x] **BookCatalog**
-  * [x] **TasksList**
-  * [x] **GradeTracker**
-  * [ ] **ExamResultManager**
-  * [ ] **AddressBook**
-  * [ ] **WeatherLog**
-  * [ ] **PersonalSportsRecords**
-  * [ ] **StudyingTimeTracker**
-  * [ ] **SleepingLog**
-  * [ ] **MeetingPlanner**
+  - [x] **RunTracker**
+  - [x] **ExpenseTracker**
+  - [x] **BookCatalog**
+  - [x] **TasksList**
+  - [x] **GradeTracker**
+  - [x] **ExamResultManager**
+  - [ ] **AddressBook**
+  - [ ] **WeatherLog**
+  - [ ] **PersonalSportsRecords**
+  - [ ] **StudyingTimeTracker**
+  - [ ] **SleepingLog**
+  - [ ] **MeetingPlanner**

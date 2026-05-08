@@ -1,0 +1,20 @@
+[
+  {
+    "uczen": "Jan Kowalski",
+    "egzamin": "polski",
+    "punkty": 30,
+    "data": "2026-01-04"
+  },
+  {
+    "uczen": "Jadwika Piast",
+    "egzamin": "historia",
+    "punkty": 100,
+    "data": "2026-05-21"
+  },
+  {
+    "uczen": "Jarek Kaczmarski",
+    "egzamin": "polski",
+    "punkty": 10,
+    "data": "2026-01-02"
+  }
+]
