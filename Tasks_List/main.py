@@ -65,9 +65,9 @@ def main():
         decyzja = num('Wybierz działanie: ')
         print()
         if decyzja ==1:
-            tresc = input('Podaj treść zadania: ')
+            tresc = input('Podaj treść zadania: ').lower()
             while True:
-                priorytet = input('Podaj priorytet: ')
+                priorytet = input('Podaj priorytet: ').lower()
                 if priorytet in PRIORYTETY:
                     break
                 else:

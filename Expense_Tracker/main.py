@@ -83,10 +83,10 @@ def main():
                 data = input('Podaj date: ')
                 if len(data) == 10 and data.replace('-', '').isdigit():
                     break
-            opis = input('Opisz wydatek: ')
+            opis = input('Opisz wydatek: ').lower()
             kwota = num(float,'Podaj kwote: ')
             while True:
-                kategoria = input('Podaj kategorie: ')
+                kategoria = input('Podaj kategorie: ').lower()
                 if kategoria in KATEGORIE:
                     break
             dodaj_wydatek(wydatki,opis,data,kwota,kategoria)

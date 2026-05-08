@@ -1,0 +1,7 @@
+[
+  { "opis": "Egzamin", "ocena": 2, "data": "2026-01-01" },
+  { "opis": "Kartkówka", "ocena": 3, "data": "2026-01-02" },
+  { "opis": "Odpowiedź ustna", "ocena": 4, "data": "2026-01-01" },
+  { "opis": "Sprawdzian", "ocena": 6, "data": "2026-03-01" },
+  { "opis": "Aktywność", "ocena": 6, "data": "2026-05-21" }
+]
