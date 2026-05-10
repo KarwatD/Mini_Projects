@@ -26,6 +26,6 @@ Code (variables and UI) is in Polish to comply with project requirements.
   - [x] **AddressBook**
   - [x] **WeatherLog**
   - [x] **PersonalSportsRecords**
-  - [ ] **StudyingTimeTracker**
+  - [x] **StudyingTimeTracker**
   - [ ] **SleepingLog**
   - [ ] **MeetingPlanner**
