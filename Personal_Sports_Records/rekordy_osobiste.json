@@ -1,0 +1,44 @@
+[
+  {
+    "data": "2024-05-01",
+    "dyscyplina": "bieg 5km",
+    "wynik": 25.0,
+    "jednostka": "mins",
+    "rekord": false
+  },
+  {
+    "data": "2024-05-05",
+    "dyscyplina": "bieg 5km",
+    "wynik": 23.5,
+    "jednostka": "mins",
+    "rekord": false
+  },
+  {
+    "data": "2024-05-02",
+    "dyscyplina": "pompki",
+    "wynik": 20,
+    "jednostka": "reps",
+    "rekord": false
+  },
+  {
+    "data": "2024-05-06",
+    "dyscyplina": "pompki",
+    "wynik": 35,
+    "jednostka": "reps",
+    "rekord": true
+  },
+  {
+    "data": "2024-05-07",
+    "dyscyplina": "rower 20km",
+    "wynik": 45.0,
+    "jednostka": "mins",
+    "rekord": true
+  },
+  {
+    "data": "2026-12-12",
+    "dyscyplina": "bieg 5km",
+    "wynik": 23.0,
+    "jednostka": "mins",
+    "rekord": true
+  }
+]
