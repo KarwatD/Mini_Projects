@@ -28,4 +28,4 @@ Code (variables and UI) is in Polish to comply with project requirements.
   - [x] **PersonalSportsRecords**
   - [x] **StudyingTimeTracker**
   - [x] **SleepingLog**
-  - [ ] **MeetingPlanner**
+  - [x] **MeetingPlanner**
